@@ -48,13 +48,15 @@ analytics:
 # navbar text without changing the URL.
 nav_pages:
   - name: about
-  - name: publications
-  - name: talks
+  # - name: publications
+  # - name: talks
   - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blog
+  - name: education
+  - name: experience
+  # - name: software
+  # - name: team
+  # - name: teaching
+  # - name: blog
 
 # ============================================================
 # STEP 5: Publications (assets/ref.bib)
