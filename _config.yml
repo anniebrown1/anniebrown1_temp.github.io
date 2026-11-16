@@ -11,12 +11,12 @@ photo: myheadshot.png  # place your photo in images/
 # STEP 2: Your Links (optional -- leave blank to hide an icon)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
+  google_scholar: ""
+  github: "https://github.com/anniebrown1"
+  researchgate: ""
   orcid: ""
   twitter: ""
-  linkedin: ""
+  linkedin: "www.linkedin.com/in/annalise-brown-mathematics"
   cv: ""  # e.g., "papers/cv.pdf"
 
 # ============================================================
