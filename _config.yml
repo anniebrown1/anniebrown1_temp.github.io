@@ -51,11 +51,9 @@ nav_pages:
   # - name: publications
   # - name: talks
   - name: research
-  - name: education
-  - name: experience
   # - name: software
   # - name: team
-  # - name: teaching
+  - name: teaching
   # - name: blog
 
 # ============================================================
